@@ -1,0 +1,6 @@
+pyinstaller --onefile --windowed --icon=icone.ico seu_script.py
+
+pyinstaller --onefile --additional-hooks-dir=RB_MT5_Hantec --icon=icone.ico seu_script.py
+
+
+nuitka --standalone --onefile --follow-imports --windows-icon-from-ico=meu_icone.ico seu_script.py

@@ -1,0 +1,9 @@
+ativo=EURUSD
+volume=0.01
+timeframe=M15
+preco_compra=1.16433
+tp_compra=1.16560
+sl_compra=1.16290
+preco_venda=1.16302
+tp_venda=1.16175
+sl_venda=1.16450
